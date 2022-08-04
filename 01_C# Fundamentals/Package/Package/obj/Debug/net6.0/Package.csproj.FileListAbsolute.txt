@@ -1,0 +1,12 @@
+D:\Training\.net\Package\Package\bin\Debug\net6.0\Package.deps.json
+D:\Training\.net\Package\Package\bin\Debug\net6.0\Package.dll
+D:\Training\.net\Package\Package\bin\Debug\net6.0\Package.pdb
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.csproj.AssemblyReference.cache
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.AssemblyInfoInputs.cache
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.AssemblyInfo.cs
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.csproj.CoreCompileInputs.cache
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.dll
+D:\Training\.net\Package\Package\obj\Debug\net6.0\refint\Package.dll
+D:\Training\.net\Package\Package\obj\Debug\net6.0\Package.pdb
+D:\Training\.net\Package\Package\obj\Debug\net6.0\ref\Package.dll

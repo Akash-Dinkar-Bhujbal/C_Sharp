@@ -1,0 +1,18 @@
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Access Package.exe
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Access Package.deps.json
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Access Package.runtimeconfig.json
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Access Package.dll
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Access Package.pdb
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Package.dll
+D:\Training\.net\Access Package\Access Package\bin\Debug\net6.0\Package.pdb
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.csproj.AssemblyReference.cache
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.AssemblyInfoInputs.cache
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.AssemblyInfo.cs
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.csproj.CoreCompileInputs.cache
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.csproj.CopyComplete
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.dll
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\refint\Access Package.dll
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.pdb
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\Access Package.genruntimeconfig.cache
+D:\Training\.net\Access Package\Access Package\obj\Debug\net6.0\ref\Access Package.dll
