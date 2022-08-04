@@ -1,0 +1,7 @@
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.csproj.AssemblyReference.cache
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.Form1.resources
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.csproj.GenerateResource.cache
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.AssemblyInfoInputs.cache
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.AssemblyInfo.cs
+D:\Training\.net\ORM2_DBFirst\ORM2_DBFirst\obj\Debug\net6.0-windows\ORM2_DBFirst.csproj.CoreCompileInputs.cache
