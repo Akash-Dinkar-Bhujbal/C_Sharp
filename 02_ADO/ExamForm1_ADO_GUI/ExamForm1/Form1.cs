@@ -8,21 +8,24 @@ namespace ExamForm1
         SqlConnection conn = new SqlConnection("SERVER=NSL-LTRG007\\SQLEXPRESS2019;INITIAL CATALOG=TEST1;INTEGRATED SECURITY=TRUE");
         SqlCommand cmd;
         SqlDataReader reader;
-        public int RollNo;
+        public static int RollNo;
+        public static string status = null;
         public Form1()
         {
             InitializeComponent();
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
+            
             conn.Open();
             /*SELECT*/
             RollNo = Convert.ToInt32(textBox1.Text);
             cmd = new SqlCommand("select * from EXAM where ROLLNO = @RollNo", conn);
             cmd.Parameters.AddWithValue("@RollNo", RollNo);
             reader = cmd.ExecuteReader();
-            string status = null;
+            
 
             if (reader.HasRows == true)
             {
@@ -35,8 +38,10 @@ namespace ExamForm1
                     MessageBox.Show("Your exam is already done.");
                 }else  if (status == "")
                 {
-                    Form2 form2 = new Form2();
-                    form2.Show();
+                    this.Close();
+                    Form2 f2 = new Form2();
+                    f2.Show();
+
                 }
 
             }

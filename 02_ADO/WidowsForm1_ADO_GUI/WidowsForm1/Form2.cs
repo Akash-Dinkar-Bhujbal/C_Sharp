@@ -31,8 +31,10 @@ namespace WidowsForm1
             {
                 while (reader.Read())
                 {
-                    label2.Text = "Name = "+reader[1].ToString();
-                    label3.Text = "Salary = "+reader[2].ToString();
+                    label2.Text = "Name = " + reader[1].ToString();
+                    label3.Text = "Salary = " + reader[2].ToString();
+                    //textBox2.Text = "Name = " + reader[1].ToString();
+                    //textBox3.Text = "Salary = " + reader[2].ToString();
                 }
             }
             else

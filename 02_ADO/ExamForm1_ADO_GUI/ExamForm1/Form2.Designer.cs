@@ -32,6 +32,7 @@
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // radioButton2
@@ -75,11 +76,21 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "QUETION";
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(12, 219);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(106, 15);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Welcome message";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(317, 261);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.radioButton2);
@@ -94,10 +105,10 @@
 
         #endregion
 
-        private GroupBox groupBox1;
         private RadioButton radioButton2;
         private RadioButton radioButton1;
         private Button button1;
         private Label label1;
+        private Label label2;
     }
 }
