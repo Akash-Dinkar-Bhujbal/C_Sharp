@@ -1,0 +1,14 @@
+CREATE DATABASE TEST1;
+
+USE TEST1;
+
+DROP TABLE EMPLOYEE;
+create table Employee(Id int, Name varchar(20),salary int) 
+insert into Employee values (1,'Ashish',20000)
+insert into Employee values (2,'Raj',30000)
+insert into Employee values (3,'Ram',40000)
+insert into Employee values (4,'John',50000)
+insert into Employee values (5,'Shashank',00002)
+select * from Employee
+delete from employee where name ='shashank'
+delete from employee where name ='Ram'

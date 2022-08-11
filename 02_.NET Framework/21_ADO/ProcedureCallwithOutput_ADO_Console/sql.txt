@@ -1,0 +1,47 @@
+USE TEST2
+
+
+CREATE TABLE STUDENT
+(
+	 Id int IDENTITY(1,1),
+	 SName VARCHAR(20),
+	 SEmail VARCHAR(20),
+	 SMobile varchar(10)
+        constraint CK_MyTable_PhoneNumber check (SMobile like '[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]')
+);
+
+INSERT INTO STUDENT 
+	(SName, SEmail, SMobile)
+VALUES
+	('Akash B.','akashb@nelito.com', '0000000000'),
+	('Suyog K.','suyogk@nelito.com', '1111111111'),
+	('Shreyas P.','shreyasp@nelito.com', '2222222222'),
+	('Gopal P.','gopalp@nelito.com', '3333333333'),
+	('Sidharth S.','sidharths@nelito.com', '4444444444')
+
+ SELECT * FROM STUDENT
+
+ DROP TABLE STUDENT;
+
+ -----------------------
+ CREATE PROCEDURE abCreateStudent
+(
+	 @Name VARCHAR(100),
+	 @Email VARCHAR(50),
+	 @Mobile VARCHAR(50),
+	 @Id int Out  
+)
+AS
+BEGIN
+     INSERT INTO STUDENT (SName, SEmail, SMobile) VALUES (@Name,@Email,@Mobile)
+	 SELECT @Id = SCOPE_IDENTITY()  
+END
+--------------------------------------------------------------------------------
+DECLARE @id INT
+
+EXEC abCreateStudent 'Prashant B.','prashantb@nelito.com','1212121212', @id OUT
+
+PRINT @id
+---------------------------------------
+DROP PROCEDURE abCreateStudent;
+-------------------------------------

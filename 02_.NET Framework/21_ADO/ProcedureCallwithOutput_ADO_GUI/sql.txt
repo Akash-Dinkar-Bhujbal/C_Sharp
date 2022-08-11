@@ -1,0 +1,106 @@
+USE TEST2
+
+CREATE TABLE STUDENT
+(
+	 Id int IDENTITY(1,1),
+	 SName VARCHAR(20),
+	 SEmail VARCHAR(20),
+	 SMobile varchar(10)
+        constraint CK_MyTable_PhoneNumber check (SMobile like '[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]')
+);
+
+INSERT INTO STUDENT 
+	(SName, SEmail, SMobile)
+VALUES
+	('Akash B.','akashb@nelito.com', '0000000000'),
+	('Suyog K.','suyogk@nelito.com', '1111111111'),
+	('Shreyas P.','shreyasp@nelito.com', '2222222222'),
+	('Gopal P.','gopalp@nelito.com', '3333333333'),
+	('Sidharth S.','sidharths@nelito.com', '4444444444')
+
+ SELECT * FROM STUDENT
+
+ DROP TABLE STUDENT;
+
+ -----------------------
+ CREATE PROCEDURE abCreateStudent
+(
+	 @Name VARCHAR(100),
+	 @Email VARCHAR(50),
+	 @Mobile VARCHAR(50),
+	 @Id int Out  
+)
+AS
+BEGIN
+     INSERT INTO STUDENT (SName, SEmail, SMobile) VALUES (@Name,@Email,@Mobile)
+	 SELECT @Id = SCOPE_IDENTITY()  
+END
+--------------------------------------------------------------------------------
+DECLARE @id INT
+
+EXEC abCreateStudent 'Prashant B.','prashantb@nelito.com','1212121212', @id OUT
+
+PRINT @id
+---------------------------------------
+DROP PROCEDURE abCreateStudent;
+-------------------------------------
+CREATE PROCEDURE abDeleteStudent
+(
+	 @Id int,
+	 @Name varchar(20) Out
+)
+AS
+BEGIN
+	 SELECT @NAME =  SNAME FROM STUDENT WHERE ID =@Id
+     DELETE FROM STUDENT where Id = @Id 
+END
+-------------------------------------
+DECLARE @name varchar(20)
+
+EXEC abDeleteStudent 12, @name OUT
+
+PRINT @name
+--------------------------------------
+DROP PROCEDURE abDeleteStudent;
+--------------------------------------
+--CREATE PROCEDURE abDisplayStudent
+--(
+--	 @Id int,
+--	 @c table Out
+--)
+--AS
+--BEGIN
+--    select @c  =  * FROM STUDENT WHERE ID = @Id
+--END
+--------------------------------------------------
+SELECT * FROM STUDENT
+
+CREATE PROCEDURE abUpdateStudent
+(	 
+	 @Name VARCHAR(100),
+	 @Email VARCHAR(50),
+	 @Mobile VARCHAR(50),
+	 @Id int Out
+)
+AS
+BEGIN
+     UPDATE STUDENT SET SName=@Name, SEmail=@Email, SMobile=@Mobile where Id= @Id 
+END
+----------------------------------------------------------------
+DECLARE @Id INT
+set @Id = 10
+--DECLARE @y INT
+
+ EXEC  abUpdateStudent 'Divya J.','divyaj@nelito.com','1212121212', @Id OUT
+
+PRINT @Id
+--------------------------
+drop procedure abUpdateStudent
+select * from student
+--------------------------------------------------------------
+CREATE PROCEDURE DISP(
+@A Int)
+as
+begin
+Select * From Student Where ID=@A
+End

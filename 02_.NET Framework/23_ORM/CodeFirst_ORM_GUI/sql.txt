@@ -1,0 +1,5 @@
+DROP DATABASE SATISH;
+
+DROP TABLE Employee;
+
+select * from Employee;

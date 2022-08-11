@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\02_ADO",
+    "\\02_ADO\\ADO_Sample",
+    "\\02_ADO\\ADO_Sample\\ADO1"
   ],
-  "SelectedNode": "\\04_ORM",
+  "SelectedNode": "\\02_ADO\\ADO_Sample\\ADO1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
