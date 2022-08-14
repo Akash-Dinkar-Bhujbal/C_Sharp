@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02_ADO",
-    "\\02_ADO\\ADO_Sample",
-    "\\02_ADO\\ADO_Sample\\ADO1"
+    "\\01_C# Fundamentals"
   ],
-  "SelectedNode": "\\02_ADO\\ADO_Sample\\ADO1\\Program.cs",
+  "SelectedNode": "\\01_C# Fundamentals\\README.md",
   "PreviewInSolutionExplorer": false
 }

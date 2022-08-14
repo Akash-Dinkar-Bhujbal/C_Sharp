@@ -1,0 +1,15 @@
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\bin\Debug\net6.0\Test_Set1.exe
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\bin\Debug\net6.0\Test_Set1.deps.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\bin\Debug\net6.0\Test_Set1.runtimeconfig.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\bin\Debug\net6.0\Test_Set1.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\bin\Debug\net6.0\Test_Set1.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.csproj.AssemblyReference.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.AssemblyInfoInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.AssemblyInfo.cs
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.csproj.CoreCompileInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\refint\Test_Set1.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\Test_Set1.genruntimeconfig.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\01_C# Fundamentals\Test_Set1\Test_Set1\obj\Debug\net6.0\ref\Test_Set1.dll
