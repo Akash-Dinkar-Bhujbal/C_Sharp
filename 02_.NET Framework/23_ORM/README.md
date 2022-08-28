@@ -1,11 +1,11 @@
 # C_Sharp
 Let's learn deeply C# language and their frameworks together...
-## Object–Relational mapping 
+## Objectâ€“Relational mapping 
 Object-Relational Mapping or ORM is a technique for converting data between C# objects and relational databases.
 ORM converts data between two incompatible type systems (C# and MySQL), such that each model class becomes a table in our database and each instance a row of the table.
 </br>
 
-Entity Framework is an open source object–relational mapping framework for ADO.NET. It was originally shipped as an integral part of .NET Framework. Starting with Entity Framework version 6, it has been delivered separately from the .NET Framework.
+Entity Framework is an open source objectâ€“relational mapping framework for ADO.NET. It was originally shipped as an integral part of .NET Framework. Starting with Entity Framework version 6, it has been delivered separately from the .NET Framework.
 <!--// ADO1.sql-->
 
 ## CodeFirst_Sample
@@ -19,7 +19,10 @@ Entity Framework is an open source object–relational mapping framework for ADO.N
 ## CodeFirst_ORM_GUI
 - ORM_WinForms1.sln
 - sql.txt
-<!--Images-->
+![1_Page_1](https://user-images.githubusercontent.com/44496666/187080925-1c0d1ec6-8430-4e2c-b102-b9d6a0736b7a.png)
+![1_Page_2](https://user-images.githubusercontent.com/44496666/187080937-5ca9b613-03f7-4d74-a923-ca82c991deb1.png)
+![1_Page_3](https://user-images.githubusercontent.com/44496666/187080941-bd770688-5063-44a2-aebd-5f79b1c291fb.png)
+
 ### ORM_WinForms1
 1. Create Employee
 2. Main Menu
@@ -37,7 +40,7 @@ Entity Framework is an open source object–relational mapping framework for ADO.N
 ## DBFirst_Form_ORM_GUI
 - DBFirst_Form.sln
 - sql.txt
-<!--Images-->
+![2](https://user-images.githubusercontent.com/44496666/187080945-9ee32a1a-42c9-4e6c-bbcb-8d7268161c89.png)
 ### DBFirst_Form
 1. CRUD OPERATIONS
 
@@ -53,7 +56,7 @@ Entity Framework is an open source object–relational mapping framework for ADO.N
 
 	PM> add-migration newDatabaseName
 
-	PM>update-newDatabaseName –verbose
+	PM>update-newDatabaseName â€“verbose
 
 	*Automatically created Migration package, It means connection establish in C# & Sql.*
 
@@ -86,7 +89,7 @@ Entity Framework is an open source object–relational mapping framework for ADO.N
 
 	PM> add-migration newDatabaseName
 
-	PM>update-newDatabaseName –verbose
+	PM>update-newDatabaseName â€“verbose
 
 	*Automatically created Migration package, It means connection establish in C# & Sql.*
 
