@@ -9,6 +9,7 @@ Let's learn deeply C# language and their frameworks together...
 	- ViewBag
 	- Action Method
 	- Model, View, Controller
+	* Without DB
 
 
 ### 02 ASP Factorial
@@ -20,50 +21,55 @@ Let's learn deeply C# language and their frameworks together...
 	- ViewData
 	- TempData
 	- ViewBag
+	* Without DB
 
-### 05 MVC_ORM_CRUD
-#### MVC3_ORM Project learning :
-	- Every CRUD operation have separate View
 
-### 06 MVC Auto CRUD
+### 05 MVC Auto CRUD
 #### MVC4_Auto_CRUD Project learning :
 	- CREATE CONTROLLER that will create automatic CRUD operation with view
+	* ORM CodeFirst Approch
+	
 
-### 07 MVC LoginForm ADO_Procedure
+### 06 MVC LoginForm ADO_Procedure
 #### MVC_LoginForm Project learning :
-	- ADO
-	- Procedure
-
-### 08 MVC User Defined CRUD
-#### MVC_UserDefinedCRUD Project learning :
-	- User Defined Input
 	- ADO Procedure
 
+### 07 MVC User Defined CRUD
+#### MVC_UserDefinedCRUD Project learning :
+	- User Defined Input
+	- Every CRUD operation have separate View
+	* ORM CodeFirst Approch
+
 	
-### 09 MVC CRUDInOne
+### 08 MVC CRUDInOne
 #### MVC_CRUDInOne Project learning :
 	- One View, Many methods
-
+	* ORM CodeFirst Approch
 
 	
-### 10 ASP TagHelper
+### 09 ASP TagHelper
 #### ASP_TagHelper Project learning :
 	- asp_route_parameterName
+	* Without DB
 
 
 	
-### 11 MVC MultipleButtonsInOneView
+### 10 MVC MultipleButtonsInOneView
 #### MVC_MultipleButtonsInOneView Project learning :
 	- Calculator: Multiple Buttons/Methods & Single View
+	* Without DB
 
 
-###	12 MVC Validation
+
+###	11 MVC Validation
 #### MVC_Validation Project learning :
 	- Data Annotation(Key, Required, length)
+	* Without DB
 
 
-###	13 MVC JsonConnection
+
+###	12 MVC JsonConnection
 #### MVC_JsonConnection Project learning :
 	- Database connection using JSON file
-
+	* MVC3.sql
 
