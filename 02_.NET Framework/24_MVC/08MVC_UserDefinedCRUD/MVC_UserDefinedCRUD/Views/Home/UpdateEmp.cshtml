@@ -1,0 +1,29 @@
+﻿<h1>Update Employee</h1>
+
+<form method="post" asp-controller="Home" asp-action="UpdateEmp">
+
+    <label for="Id">Enter Employee Id :</label>
+    <input type="text" name="Id" />
+    <br />
+    <br />
+    <label for="Name">Enter Employee Name :</label>
+    <input type="text" name="Name" />
+    <br />
+    <br />
+    <label for="Address">Enter Employee Address:</label>
+    <input type="text" name="Address" />
+    <br />
+    <br />
+    <label for="Age">Enter Employee Age:</label>
+    <input type="text" name="Age" />
+    <br />
+    <br />
+
+    <script type="text/javascript">
+        function myfunction() {
+            alert("Record Updated");
+        }
+    </script>
+    <input type="submit" value="UPDATE" onclick="myfunction()" />
+</form>
+

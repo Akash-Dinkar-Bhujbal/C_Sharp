@@ -1,0 +1,37 @@
+﻿@model List<Student>
+@{
+    ViewBag.Title = "Student List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>View</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.StudentId</td>
+                    <td>@student.Name</td>
+                    <td>
+                       
+                           <a asp-controller="Home" asp-action="Details"
+                       asp-route-id="@student.StudentId"
+                       asp-route-name="@student.Name"
+                       asp-route-branch="@student.Branch"
+                       asp-route-section="@student.Section"
+                       asp-route-gender="@student.Gender">View</a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

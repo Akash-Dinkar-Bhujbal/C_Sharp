@@ -1,0 +1,24 @@
+﻿@*<h1>I am index view</h1>
+
+
+<p>@ViewBag.x</p>
+<p>@ViewBag.y</p>
+<p>@ViewBag.z</p>*@
+
+
+@*-----------------------------------------------------*@
+
+@{
+    ViewBag.Title = "Index";
+    var Empl = ViewBag.emps;
+}
+
+<h2>@ViewBag.Title</h2>
+<h1>list of details</h1>
+
+@foreach(var m in Empl){
+    @m.Id
+    <br/>
+    @m.Name
+    <br />
+}

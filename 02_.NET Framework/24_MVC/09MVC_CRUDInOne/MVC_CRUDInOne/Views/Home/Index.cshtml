@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "MVC CRUD In One Page";
+
+}
+
+<h1>@ViewBag.Title</h1>
+
+<form method="post" asp-controller="Home" asp-action="AddEmp">
+
+    <label for="Id">Enter Employee Id :</label>
+    <input type="number" name="Id" />
+    <br />
+    <br />
+    <label for="Name">Enter Employee Name :</label>
+    <input type="text" name="Name" />
+    <br />
+    <br />
+    <label for="Address">Enter Employee Address:</label>
+    <input type="text" name="Address" />
+    <br />
+    <br />
+    <label for="Age">Enter Employee Age:</label>
+    <input type="number" name="Age" />
+    <br />
+    <br />
+    
+    <input type="submit" value="INSERT" formaction="/Home/AddEmp" /> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="Update" formaction="/Home/UpdateEmp" /> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="Delete" formaction="/Home/DeleteEmp" /> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="Display" formaction="/Home/DisplayEmp" /> &nbsp;&nbsp;&nbsp;
+<br />
+<br />
+    @*<scipt>
+        function fun(){
+        @{
+            var list = @ViewBag.ResultAll;
+
+            foreach (var i in list)
+            {
+                <span>@i.Id </span>
+                <span>@i.Name</span>
+                <span>@i.Address</span>
+                <span>@i.Age</span>
+                <br />
+            }
+        }
+        }
+    </scipt>
+    <input type="submit" value="DisplayAll" formaction="/Home/DisplayAll" onclick="fun"/> &nbsp;&nbsp;&nbsp;*@
+</form>
+
+@ViewBag.Result

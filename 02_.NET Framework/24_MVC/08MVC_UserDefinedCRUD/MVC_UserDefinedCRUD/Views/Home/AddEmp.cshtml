@@ -1,0 +1,27 @@
+﻿<h1>Add Employee</h1>
+
+<form method="post" asp-controller="Home" asp-action="AddEmp">
+
+    <label for="Name">Enter Employee Name :</label>
+    <input type="text" name="Name" />
+    <br />
+    <br />
+    <label for="Address">Enter Employee Address:</label>
+    <input type="text" name="Address" />
+    <br />
+    <br />
+    <label for="Age">Enter Employee Age:</label>
+    <input type="text" name="Age" />
+    <br />
+    <br />
+    <script type="text/javascript">
+        function myfunction() {
+            alert("Record Inserted");
+        }
+    </script>
+    <input type="submit" value="INSERT" onclick="myfunction()" />
+</form>
+
+
+
+@ViewBag.Work

@@ -1,0 +1,41 @@
+﻿<h1>Nelito</h1>
+<p>DATA COMMING FROM INDEX Action Method</p>
+<p>ViewData: "String"</p>
+@ViewData["msg"]
+<br />
+
+<p>ViewData: "DateTime"</p>
+@ViewData["var1"]
+<br />
+
+<p>ViewData: "Array"</p>
+@{
+    var v1 = (string[])ViewData["var2"];
+    foreach (var i in v1){
+        <li>@i</li>
+    }
+}
+<br />
+
+<p>ViewData: "List"</p>
+
+@{
+    var v2 = (List<string>)ViewData["var3"];
+    foreach (var i in v2)
+    {
+        <li>@i</li>
+    }
+}
+<br />
+
+<p>ViewData: "Employee obj"</p>
+
+@{
+    var v3 = (Employee)ViewData["var4"];
+    <pre>@v3.name        @v3.age        @v3.address
+    </pre>
+   
+}
+<br />
+
+<a asp-controller="Home" asp-action="Privacy">GO TO PRIVACY PAGE</a>

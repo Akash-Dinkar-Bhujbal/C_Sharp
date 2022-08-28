@@ -55,6 +55,11 @@ All Basics About C#
 
 ### CLASS LIBRARY / Package
 
+### MULTI THREADING:
+- MT1: Run two threads simultaneously
+- MT2: Run two threads separately
+- MT3: Asyn Task
+
 ### EXERCISE 
 1. Write a C# Sharp program to check two given integers, and return true if one of them is 30 or if their sum is 30. 
 2. Write a C# Sharp program to check if a given positive number is a multiple of 3.

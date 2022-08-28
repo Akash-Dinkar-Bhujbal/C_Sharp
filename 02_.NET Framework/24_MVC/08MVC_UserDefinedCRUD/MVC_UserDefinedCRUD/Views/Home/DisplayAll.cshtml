@@ -1,0 +1,14 @@
+﻿<h1>Display All Employees</h1>
+@{
+    var mod = Model;
+
+
+    foreach (var i in mod)
+    {
+        <span>@i.Id </span>
+        <span>@i.Name</span>
+        <span>@i.Address</span>
+        <span>@i.Age</span>
+        <br />
+    }
+}

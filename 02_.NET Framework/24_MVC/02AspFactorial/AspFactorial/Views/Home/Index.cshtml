@@ -1,0 +1,21 @@
+﻿<h3><font color="RED">FACTORIAL EXAMPLE</font></h3>
+<div>
+    <form asp-action="Index" method="post">
+        <table border="1" bgcolor="YELLOW" height="150" width="300">
+            <tr>
+                <td>Enter Any Number</td>
+                <td><input type="text" name="factnumber" /></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Calculate Factorial" />
+                </td>
+            </tr>
+        </table>
+        <br/>
+        <br/>
+        <br/>
+        <hr/>
+        <b>@ViewBag.result</b>
+    </form>
+</div>

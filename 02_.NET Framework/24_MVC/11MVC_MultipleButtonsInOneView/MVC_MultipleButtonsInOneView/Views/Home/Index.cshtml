@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Welcome to My Calculator Page";
+}
+
+<h1>@ViewBag.Title</h1>
+<br />
+
+<form asp-controller="Home" method="post">
+    Enter 1st Number: <input name="Text1" type="text"/>
+    <br />
+    <br />
+    Enter 2nd Number: <input name="Text2" type="text" />
+    <br />
+    <br />
+    <input type="submit" value="+" formaction="/Home/Add"/> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="-" formaction="/Home/Minus"/> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="x" formaction="/Home/Multiply"/> &nbsp;&nbsp;&nbsp;
+    <input type="submit" value="/" formaction="/Home/Divide"/> &nbsp;&nbsp;&nbsp;
+
+</form>
+
+<h2 style="color:crimson; background-color:darksalmon; padding:10">@ViewBag.result</h2>

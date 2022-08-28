@@ -1,0 +1,20 @@
+﻿<h1>Delete Employee Details</h1>
+
+<form method="post" asp-controller="Home" asp-action="DisplayEmp">
+
+    <label for="Id">Enter Employee Id :</label>
+    <input type="text" name="Id" />
+    <br />
+    <br />
+     
+     <input type="submit" value="Delete"  onclick="myfunction()"/>
+    <script type="text/javascript">
+        function myfunction() {
+            var str = @ViewBag.Work
+                alert(str);
+        }
+    </script>
+</form>
+
+@ViewBag.Work
+

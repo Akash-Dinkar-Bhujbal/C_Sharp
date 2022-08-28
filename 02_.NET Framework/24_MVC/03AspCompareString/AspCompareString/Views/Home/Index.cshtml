@@ -1,0 +1,26 @@
+﻿<h1>***Compare To Strings***</h1>
+
+<div>
+    <form asp-action="Index" method="post">
+        <table border="1" bgcolor="YELLOW" height="150" width="300">
+            <tr>
+                <td>Enter First String 1</td>
+                <td><input type="text" name="str1" /></td>
+            </tr>
+            <tr>
+                <td>Enter Second String 2</td>
+                <td><input type="text" name="str2" /></td>
+            </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Compare String" />
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <br />
+        <hr />
+        <b>@ViewBag.result</b>
+    </form>
+</div>

@@ -1,0 +1,13 @@
+﻿<h1>Display</h1>
+@{
+    var o = Model;
+
+
+    foreach(var m in o){
+        <span>@m.Id </span>
+        <span>@m.Name</span>
+        <span>@m.Address</span>
+        <span>@m.Age</span>
+        <br />
+    }
+}

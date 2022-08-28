@@ -80,7 +80,7 @@ Entity Framework is an open source object–relational mapping framework for ADO.N
 	DBContext class/ persistence file & Model/ Entity class are created
 
 
-3. Create database
+3. Create database(Not Compulsory)
 
 	Tools>>NuGet Package Manager>>Package Manager Console
 
