@@ -18,10 +18,20 @@ namespace MVC_LoginForm.Models
             oblogin.Direction = ParameterDirection.Output;
             com.Parameters.Add(oblogin);
             con.Open();
+            try
+            {
                 com.ExecuteNonQuery();
-            int res = Convert.ToInt32(oblogin.Value);
-            con.Close();
-            return res;
+                int res = Convert.ToInt32(oblogin.Value);
+                con.Close();
+                return res;
+            }
+            catch
+            {
+                int res = 0;
+                con.Close();
+                return res;
+            }
+            
         }
     }
 }

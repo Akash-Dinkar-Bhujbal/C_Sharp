@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj": {}
+    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\07MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj": {
+    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\07MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj",
+        "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\07MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj",
         "projectName": "MVC_UserDefinedCRUD",
-        "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj",
+        "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\07MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD.csproj",
         "packagesPath": "C:\\Users\\akashb\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\obj\\",
+        "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\07MVC_UserDefinedCRUD\\MVC_UserDefinedCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

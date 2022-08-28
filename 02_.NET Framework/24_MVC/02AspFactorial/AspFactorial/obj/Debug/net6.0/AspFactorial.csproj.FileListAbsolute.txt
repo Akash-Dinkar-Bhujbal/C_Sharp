@@ -24,3 +24,29 @@ D:\Training\.net\AspFactorial\AspFactorial\obj\Debug\net6.0\refint\AspFactorial.
 D:\Training\.net\AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.pdb
 D:\Training\.net\AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.genruntimeconfig.cache
 D:\Training\.net\AspFactorial\AspFactorial\obj\Debug\net6.0\ref\AspFactorial.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\appsettings.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.staticwebassets.runtime.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.exe
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.deps.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.runtimeconfig.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\bin\Debug\net6.0\AspFactorial.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.csproj.AssemblyReference.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.AssemblyInfoInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.AssemblyInfo.cs
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.csproj.CoreCompileInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.RazorAssemblyInfo.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.RazorAssemblyInfo.cs
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\scopedcss\bundle\AspFactorial.styles.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\scopedcss\projectbundle\AspFactorial.bundle.scp.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\refint\AspFactorial.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\AspFactorial.genruntimeconfig.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\02AspFactorial\AspFactorial\obj\Debug\net6.0\ref\AspFactorial.dll

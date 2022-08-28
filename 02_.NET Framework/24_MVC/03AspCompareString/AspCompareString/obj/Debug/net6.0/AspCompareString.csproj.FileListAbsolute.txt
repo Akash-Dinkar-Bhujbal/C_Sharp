@@ -24,3 +24,29 @@ D:\Training\.net\AspCompareString\AspCompareString\obj\Debug\net6.0\refint\AspCo
 D:\Training\.net\AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.pdb
 D:\Training\.net\AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.genruntimeconfig.cache
 D:\Training\.net\AspCompareString\AspCompareString\obj\Debug\net6.0\ref\AspCompareString.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\appsettings.Development.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\appsettings.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.staticwebassets.runtime.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.exe
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.deps.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.runtimeconfig.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\bin\Debug\net6.0\AspCompareString.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.csproj.AssemblyReference.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.AssemblyInfoInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.AssemblyInfo.cs
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.csproj.CoreCompileInputs.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.RazorAssemblyInfo.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.RazorAssemblyInfo.cs
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\staticwebassets.build.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\staticwebassets.development.json
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\scopedcss\bundle\AspCompareString.styles.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\scopedcss\projectbundle\AspCompareString.bundle.scp.css
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\refint\AspCompareString.dll
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.pdb
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\AspCompareString.genruntimeconfig.cache
+D:\GitHub\Akash-Dinkar-Bhujbal\C_Sharp\02_.NET Framework\24_MVC\03AspCompareString\AspCompareString\obj\Debug\net6.0\ref\AspCompareString.dll

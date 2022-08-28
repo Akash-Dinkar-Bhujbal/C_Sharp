@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj": {}
+    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\05MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj": {
+    "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\05MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj",
+        "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\05MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj",
         "projectName": "MVC4_Auto_CRUD",
-        "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj",
+        "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\05MVC_Auto_CRUD\\MVC4_Auto_CRUD\\MVC4_Auto_CRUD.csproj",
         "packagesPath": "C:\\Users\\akashb\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD\\MVC4_Auto_CRUD\\obj\\",
+        "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\05MVC_Auto_CRUD\\MVC4_Auto_CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

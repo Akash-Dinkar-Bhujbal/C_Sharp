@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\10ASP_TagHelper\\ASP_TagHelper\\ASP_TagHelper.csproj",
+      "projectUniqueName": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\09ASP_TagHelper\\ASP_TagHelper\\ASP_TagHelper.csproj",
       "projectName": "ASP_TagHelper",
-      "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\10ASP_TagHelper\\ASP_TagHelper\\ASP_TagHelper.csproj",
+      "projectPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\09ASP_TagHelper\\ASP_TagHelper\\ASP_TagHelper.csproj",
       "packagesPath": "C:\\Users\\akashb\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\10ASP_TagHelper\\ASP_TagHelper\\obj\\",
+      "outputPath": "D:\\GitHub\\Akash-Dinkar-Bhujbal\\C_Sharp\\02_.NET Framework\\24_MVC\\09ASP_TagHelper\\ASP_TagHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
