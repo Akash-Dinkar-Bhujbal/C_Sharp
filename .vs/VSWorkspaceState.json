@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02_.NET Framework",
-    "\\02_.NET Framework\\24_MVC\\06MVC_Auto_CRUD",
-    "\\02_.NET Framework\\24_MVC\\07MVC_LoginForm_ADO_Procedure",
-    "\\02_.NET Framework\\24_MVC\\08MVC_UserDefinedCRUD",
-    "\\02_.NET Framework\\24_MVC\\09MVC_CRUDInOne",
-    "\\02_.NET Framework\\24_MVC\\10ASP_TagHelper",
-    "\\02_.NET Framework\\24_MVC\\11MVC_MultipleButtonsInOneView",
-    "\\02_.NET Framework\\24_MVC\\12MVC_Validation",
-    "\\02_.NET Framework\\24_MVC\\13MVC_JsonConnection"
+    "\\02_.NET Framework"
   ],
-  "SelectedNode": "\\02_.NET Framework\\README.md",
   "PreviewInSolutionExplorer": false
 }
