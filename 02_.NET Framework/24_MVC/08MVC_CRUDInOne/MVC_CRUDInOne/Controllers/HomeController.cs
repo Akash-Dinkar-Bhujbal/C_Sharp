@@ -41,14 +41,14 @@ namespace MVC_CRUDInOne.Controllers
 
             return View("Index");
         }
-
+        [HttpPost]
         /*DisplayAll Not Working*/
-        public IActionResult DisplayAll()
+        public IActionResult DisplayAll(Employee obj)
         {
             var context = new EmployeeContext();
             IEnumerable<Employee> emp = context.Employee.ToList();
-            ViewBag.ResultAll = emp;
-            return View("Index");
+            //ViewBag.ResultAll = emp;
+            return View(emp);
         }
 
         

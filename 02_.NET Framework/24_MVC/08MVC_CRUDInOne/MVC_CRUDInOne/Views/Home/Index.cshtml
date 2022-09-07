@@ -30,23 +30,32 @@
     <input type="submit" value="Display" formaction="/Home/DisplayEmp" /> &nbsp;&nbsp;&nbsp;
 <br />
 <br />
-    @*<scipt>
+    <script>
         function fun(){
         @{
             var list = @ViewBag.ResultAll;
 
             foreach (var i in list)
             {
-                <span>@i.Id </span>
-                <span>@i.Name</span>
-                <span>@i.Address</span>
-                <span>@i.Age</span>
-                <br />
+                            <span>@i.Id </span>
+                            <span>@i.Name</span>
+                            <span>@i.Address</span>
+                            <span>@i.Age</span>
+                            <br />
             }
         }
         }
-    </scipt>
-    <input type="submit" value="DisplayAll" formaction="/Home/DisplayAll" onclick="fun"/> &nbsp;&nbsp;&nbsp;*@
+    </script>
+    <input type="submit" value="DisplayAll" formaction="/Home/DisplayAll" /> &nbsp;&nbsp;&nbsp;
 </form>
+
+
+    <script>
+        if( @ViewBag.ResultAll != null){
+
+        fun();
+        }
+    </script>
+
 
 @ViewBag.Result
